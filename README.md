@@ -16,7 +16,7 @@
 
 <div class="pageContainer">
   <div class="imageContainer"> 
-    <img src="file:///C:/Users/Susie/Pictures/Ugly%20Ellie.JPG" alt="What Ellie would of looked like as a puppy." /> 
+    <img src="C:\Users\Susie\Pictures\Ugly Ellie" alt="What Ellie would of looked like as a puppy." /> 
   </div>
   <div class="textContainer">
     <h1>Ellie!</h1>
