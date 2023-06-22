@@ -48,7 +48,11 @@ p, li {
   color: #51473b;
 }
 
-
+p, {
+  font-family: 'Lato', sans-serif;
+  font-size: 22px;
+  color: #blue
+}
 
 
 /* ---- Advanced ---- */
