@@ -16,10 +16,10 @@
 
 <div class="pageContainer">
   <div class="imageContainer"> 
-    <img src="XXX" alt="What Ellie would of looked like as a puppy." /> 
+    <img src="images/Ellie sofa profile.jpg" alt="What Ellie would of looked like as a puppy." /> 
   </div>
   <div class="textContainer">
-    <h1>Ellie!</h1>
+    <h1>Ellie ♥</h1>
     <p>Her Favorite Things to Do: </p>
     <ul>
       <li>Sleep</li>
