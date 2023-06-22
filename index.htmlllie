@@ -2,7 +2,7 @@
 <html>
 <head>
 
-<title>My Favorite Ugly</title>
+  <h1>My Favorite Ugly</h1>
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" />
 
@@ -16,7 +16,7 @@
 
 <div class="pageContainer">
   <div class="imageContainer"> 
-    <img src="XXXX" alt="What Ellie looks like on the daily." /> 
+    <img src="images/Ellie sofa profile.jpg" alt="What Ellie would of looked like as a puppy." /> 
   </div>
   <div class="textContainer">
     <h1>Ellie ♥</h1>
@@ -24,12 +24,13 @@
     <ul>
       <li>Sleep</li>
       <li>Stink up the Place Cheese</li>
-      <li>Kill innocent creatures</li>
+      <li>Kill inocent creatures</li>
       <li>Chew on defenseless chipmunks</li>
       <li>Sleep on the Bed and Fart up a Storm</li>  
     </ul>
   </div>
 </div>
+
 src="https://youtu.be/xMO3HEOOFSc"
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xMO3HEOOFSc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
